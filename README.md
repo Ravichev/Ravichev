@@ -7,16 +7,17 @@
 My name is Maksim, and I’m currently learning Data Science. I hold a college and bachelor’s degree in programming. Right now, I’m actively growing in the field — solving problems, studying models and technologies from scratch.  
 This README reflects my learning journey and progress. Enjoy reading! 🙂
 
-| Название | Описание | Технологии |
-|----------|----------|------------|
-| [Custom Data Preprocessor](https://github.com/Ravichev/Custom-Data-Preprocessor) | Задача с которой я начинал на практике изучение `python` и вспоминал уже знакомое мне ООП | `python`|
-| [Linear Regression](https://github.com/Ravichev/Linear-Regression-from-scratch) | Изучение работы линейной регрессии "под капотом", с дальнейшим сравнением своего класса с scikit-learn алгоритмом. Изучение необходимых для работы библиотек.| `python`, `pandas`, `numpy`, `matplotlib`, `scikit-learn` |
-| [Police stops EDA)](https://github.com/Ravichev/Police-stops-EDA) | Изучение процесса Exploratory Data Analysis (EDA) |  `python`, `pandas`, `numpy`, `matplotlib`, `seaborn` |
-| [Titanic](https://github.com/Ravichev/Titanic) | Классическая задача supervised классификации предсказания выживших на Титанике | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
-| [Spaceship Titanic](https://github.com/Ravichev/Spaceship-Titanic) | Классическая задача supervised  классификации, но с другого ракурса - предсказание пропавших на космическом Титанике | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `catboost` |
-| [House prices Regression](https://github.com/Ravichev/House-prices-regression) | Also классическая задача supervised регресии - предсказание стоимости дома | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
-| [Anime Recommendation Filtering](https://github.com/Ravichev/Anime-Recommendation-Filtering) | Изучение работы рекомендационных систем фильтрации | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `surprise` |
-| [Unsupervised Anomaly Detection](https://github.com/Ravichev/Unsupervised-Anomaly-Detection) | Обнаружение аномалий в данных при помощи  `DBSCAN` и `IsolationForest`  | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [Custom Data Preprocessor](https://github.com/Ravichev/Custom-Data-Preprocessor) | A task where I began learning `python` in practice and refreshed my OOP knowledge. | `python`|
+| [Linear Regression](https://github.com/Ravichev/Linear-Regression-from-scratch) | Studying how linear regression works under the hood, with a comparison between my own class and the scikit-learn implementation. | `python`, `pandas`, `numpy`, `matplotlib`, `scikit-learn` |
+| [Police Stops EDA](https://github.com/Ravichev/Police-stops-EDA) | Exploring the process of Exploratory Data Analysis (EDA). |  `python`, `pandas`, `numpy`, `matplotlib`, `seaborn` |
+| [Titanic](https://github.com/Ravichev/Titanic) | A classic supervised classification problem — predicting survivors of the Titanic. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
+| [Spaceship Titanic](https://github.com/Ravichev/Spaceship-Titanic) | Another classification task — predicting missing passengers on the Space Titanic. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `catboost` |
+| [House Prices Regression](https://github.com/Ravichev/House-prices-regression) | A classic supervised regression problem — predicting house prices. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
+| [Anime Recommendation Filtering](https://github.com/Ravichev/Anime-Recommendation-Filtering) | Studying how filtering-based recommendation systems work. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `surprise` |
+| [Unsupervised Anomaly Detection](https://github.com/Ravichev/Unsupervised-Anomaly-Detection) | Detecting anomalies in data using `DBSCAN` and `IsolationForest`. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
+
 
 ## 🌍 Languages
 - Ukranian — native  
