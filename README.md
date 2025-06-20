@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" alt="Описание" width="600" />
 </p>  
 
-## Hello there 👋  
+## 👋 About Me
 
 My name is Maksim, and I’m currently learning Data Science. I hold a college and bachelor’s degree in programming. Right now, I’m actively growing in the field — solving problems, studying models and technologies from scratch.  
 This README reflects my learning journey and progress. Enjoy reading! 🙂
