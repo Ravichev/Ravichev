@@ -16,13 +16,22 @@ This README reflects my learning journey and progress. Enjoy reading! 🙂
 | [Spaceship Titanic](https://github.com/Ravichev/Spaceship-Titanic) | Another classification task — predicting missing passengers on the Space Titanic. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `catboost` |
 | [House Prices Regression](https://github.com/Ravichev/House-prices-regression) | A classic supervised regression problem — predicting house prices. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
 | [Anime Recommendation Filtering](https://github.com/Ravichev/Anime-Recommendation-Filtering) | Studying how filtering-based recommendation systems work. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `surprise` |
-| [Unsupervised Anomaly Detection](https://github.com/Ravichev/Unsupervised-Anomaly-Detection) | Detecting anomalies in data using `DBSCAN` and `IsolationForest`. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
+| [Unsupervised Anomaly Detection](https://github.com/Ravichev/Unsupervised-Anomaly-Detection) | Detecting anomalies in data using `DBSCAN` and `IsolationForest`. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |  
 
+- 🌱 I’m currently learning Neural Networks. Stay tuned to update 🙂
 
 ## 🌍 Languages
 - Ukranian — native  
 - Russian — native  
 - English — B1+ (Intermediate)  
+
+## 📬 Contacts
+- 📧 Email: maksim.ravichev@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 💻 Telegram: [@ravichev](https://t.me/ravichev)  
+- 📊 Kaggle: [kaggle.com/maximravichev](https://www.kaggle.com/maximravichev)
+
+
 <!--
 **Ravichev/Ravichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
