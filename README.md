@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" alt="Описание" width="600" />
+  <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" alt="Description" width="600" />
 </p>  
 
 ## 👋 About Me
