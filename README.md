@@ -17,6 +17,8 @@ This README reflects my learning journey and progress. Enjoy reading! 🙂
 | [House Prices Regression](https://github.com/Ravichev/House-prices-regression) | A classic supervised regression problem — predicting house prices. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
 | [Anime Recommendation Filtering](https://github.com/Ravichev/Anime-Recommendation-Filtering) | Studying how filtering-based recommendation systems work. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `surprise` |
 | [Unsupervised Anomaly Detection](https://github.com/Ravichev/Unsupervised-Anomaly-Detection) | Detecting anomalies in data using `DBSCAN` and `IsolationForest`. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |  
+| [Gender Recognizer](https://github.com/Ravichev/Gender-Recognizer) | Neural network that determines gender from a photo | `python`, `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `tensorflow`, `keras` |  
+| [Personnel Loss Forecasting (Ukraine War)](https://github.com/Ravichev/Personnel-Loss-Forecasting) | Neural network that tries to predict the daily personnel losses of the Russian army | `python`, `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `tensorflow`, `keras` |  
 
 - 🌱 I’m currently learning Neural Networks. Stay tuned to update 🙂
 
