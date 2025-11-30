@@ -32,7 +32,7 @@ Stay tuned to update 🙂
 
 ## 📬 Contacts
 - 📧 Email: maksim.ravichev@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/maksym-ravichev-9a9766382/)  
+- 💼 LinkedIn: [linkedin.com/in/maksym-ravichev](https://www.linkedin.com/in/maksym-ravichev-9a9766382/)  
 - 💻 Telegram: [@ravichev](https://t.me/ravichev)  
 - 📊 Kaggle: [kaggle.com/maximravichev](https://www.kaggle.com/maximravichev)
 
