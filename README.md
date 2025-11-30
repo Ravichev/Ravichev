@@ -19,8 +19,11 @@ This README reflects my learning journey and progress. Enjoy reading! 🙂
 | [Unsupervised Anomaly Detection](https://github.com/Ravichev/Unsupervised-Anomaly-Detection) | Detecting anomalies in data using `DBSCAN` and `IsolationForest`. | `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |  
 | [Gender Recognizer](https://github.com/Ravichev/Gender-Recognizer) | Neural network that determines gender from a photo | `python`, `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `tensorflow`, `keras` |  
 | [Personnel Loss Forecasting (Ukraine War)](https://github.com/Ravichev/Personnel-Loss-Forecasting) | Neural network that tries to predict the daily personnel losses of the Russian army | `python`, `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `tensorflow`, `keras` |  
+| [Poetry NLP](https://github.com/Ravichev/Poetry-NLP/) | NLP learning and writing poetry in different themes | `python`, `pandas`, `numpy`, `matplotlib`, `tensorflow`, `keras` |  
 
-- 🌱 I’m currently learning Neural Networks. Stay tuned to update 🙂
+- 🌱 I'm currently studying neural networks. Here you can see my [diplomas and certificates](https://github.com/Ravichev/Diplomas).
+
+Stay tuned to update 🙂
 
 ## 🌍 Languages
 - Ukranian — native  
