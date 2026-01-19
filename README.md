@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-My name is Maksim, and I’m currently applying ([check my CV here](Maksym_Ravichev_-_junior_Data_Science_CV.pdf)) and learning Data Science. I hold a college and bachelor’s degree in programming. Right now, I’m actively growing in the field — solving problems, studying models and technologies from scratch.  
+My name is Maksim, and I’m currently applying ([check my CV here](https://github.com/Ravichev/CV/blob/main/Maksym_Ravichev_-_junior_Data_Science_CV.pdf)) and learning Data Science. I hold a college and bachelor’s degree in programming. Right now, I’m actively growing in the field — solving problems, studying models and technologies from scratch.  
 This README reflects my learning journey and progress. Enjoy reading! 🙂
 
 | Project | Description | Technologies |
